@@ -22,4 +22,4 @@ Creating measures using the DAX language.
 Build Executive View, Finance View, Revenue View, Occupancy and Booking View and Key Metrics View.
 Designing an effective Dashboard which includes page navigation with buttons, tooltips, using KPI’s, conditional formatting of the values in visuals.
 Deploying the solution using Power BI Service.
-
+Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiNGFjYjJlNzAtYmI3Mi00N2MxLTliMzEtODRlMDFlNmMwMzAxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
