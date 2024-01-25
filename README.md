@@ -8,9 +8,14 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 **Tech Stacks:**
 
 Power BI
+
 Power Point
+
 Excel
-Language- M, DAX
+
+Language- M
+
+DAX
 
 **Workflow steps:**
 
